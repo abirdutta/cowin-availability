@@ -1,0 +1,6 @@
+version: "2"
+services:
+    cowin-availability: 
+        image: cowin-availability:latest 
+        ports:
+            - "8501"
